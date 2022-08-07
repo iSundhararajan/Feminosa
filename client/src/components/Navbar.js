@@ -48,8 +48,8 @@ export default function Navbar() {
                                             <span className="lg:inline-flex px-3 mx-3 py-2 rounded items-center justify-center dark:hover:bg-navHover hover:bg-[#FFAEC9] cursor-pointer">Find Products</span>
                                         </Link>
 
-                                        <Link to="/chat">
-                                            <span className="lg:inline-flex px-3 mx-3 py-2 rounded items-center justify-center dark:hover:bg-navHover hover:bg-[#FFAEC9] cursor-pointer">Chatrooms</span>
+                                        <Link to="/sos">
+                                            <span className="lg:inline-flex px-3 mx-3 py-2 rounded items-center justify-center dark:hover:bg-navHover hover:bg-[#FFAEC9] cursor-pointer">Women Safety</span>
                                         </Link>
 
                                         <Link to="/donate">
@@ -80,8 +80,8 @@ export default function Navbar() {
                             <span className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded items-center justify-center dark:hover:bg-navHover hover:bg-[#FFAEC9] cursor-pointer">Find Products</span>
                         </Link>
 
-                        <Link to="/chat">
-                            <span className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded items-center justify-center dark:hover:bg-navHover hover:bg-[#FFAEC9] cursor-pointer">Chatrooms</span>
+                        <Link to="/sos">
+                            <span className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded items-center justify-center dark:hover:bg-navHover hover:bg-[#FFAEC9] cursor-pointer">Women Safety</span>
                         </Link>
 
                         <Link to="/donate">
