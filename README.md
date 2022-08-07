@@ -6,7 +6,7 @@ Feminine hygiene products are very important in women's lives as it keeps them h
 
 ## 💻 What it does
 
-Feminosa is a web app that helps end period poverty by offering feminine hygiene products to women, free of cost. This is mainly intended for rural women, who have limited access to these necessary supplies. When the user arrives to the website, they will be taken to the homepage, which gives more details about this initiative. The user can browse for products and can donate to charities which help women in rural areas; this secure payment process will be powered by Hedera. Moreover, there is also tips on how women can be safe and has an SOS button, in case immediate help is needed.
+Feminosa is a web app that helps end period poverty by offering feminine hygiene products to women, free of cost. This is mainly intended for rural women, who have limited access to these necessary supplies. When the user arrives to the website, they will be taken to the homepage, which gives more details about this initiative. The user can browse for products and can donate to charities which help women in rural areas; this secure payment process will be powered by Hedera. Moreover, there is also tips on how women can be safe and has an SOS button, in case immediate help is needed. 
 
 ## ⚙️ How we built it
 
